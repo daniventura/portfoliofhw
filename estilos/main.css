@@ -197,6 +197,7 @@ footer {
 
 	.titulo {
 		padding-right: 30px;
+		margin-right: -30px;
 	}
 }
 
