@@ -6,12 +6,12 @@ html {
 
 body {
 	margin: 0;
-	margin: auto;
 	width: 100%;
 	max-width: 1400px;
 	justify-self: center;
 	display: grid;
 	grid-template-columns: 15% 85% ;
+	background-color: #D9EAD3;
 }
 
 
