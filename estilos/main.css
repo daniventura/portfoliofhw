@@ -165,7 +165,7 @@ footer {
 
 	.menu-btn {
 		display: flex;
-		height: 100vh;
+		height: 110vh;
 		width: 100%;
 		border: 0;
 		background-color: transparent;
@@ -179,7 +179,7 @@ footer {
 		margin-top: 0;
 		top: 0;
 		padding-left: 50px;
-		padding-top: 0;
+		padding-top: 20vh;
 		z-index: 1000;
 		height: 100vh;
 		background-color: rgba(217,234,211,0.95);
@@ -194,6 +194,19 @@ footer {
 
 	nav ul li a {
 	padding: 30px 10px 30px 15px;
+	}
+}
+
+@media (max-height:  400px) {
+	nav ul li a {
+	padding: 20px 10px 20px 15px;
+	}
+}
+
+@media (max-height:  650px) {
+	.menu {
+		padding-top: 0;
+	}
 }
 
 @media (max-width:  856px) {
