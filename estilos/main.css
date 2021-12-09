@@ -137,11 +137,12 @@ article {
 }
 
 h2 {
-	margin-right: 20px;
+	margin-right: 10px;
 	margin-left: 20px;
 }
 
 .texto {
+	text-align: justify;
 
 }
 
@@ -211,8 +212,16 @@ footer {
 
 @media (max-width:  856px) {
 	
+	body {
+		grid-template-columns: 30px;
+	}
+
+	.menu {
+		padding-left: 30px;
+	}
+
 	article {
-		padding: 30px;
+		padding: 20px;
 	}
 
 	.padretitulo {
@@ -232,8 +241,8 @@ footer {
 
 
 	.titulo {
-		margin-right: -30px;
-		padding-right: 30px;
+		margin-right: -20px;
+		padding-right: 20px;
 	}
 }
 
