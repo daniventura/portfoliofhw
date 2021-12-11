@@ -116,7 +116,7 @@ nav ul li a {
 article {
 	background-color: #f2f9fa;
 	padding: 40px;
-	margin: -1px;
+	margin: -1px, 0,-1px,-1px,;
 }
 
 .padretitulo {
