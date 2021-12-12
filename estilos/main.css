@@ -213,6 +213,7 @@ h2 {
 	grid-template-columns: 1fr 1fr;
 	column-gap: 2em;
 	grid-row-gap: 2em;
+	margin-bottom: 5em;
 }
 	.baraja .criterios {
 		margin: 0;
