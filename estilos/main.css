@@ -191,6 +191,10 @@ h2 {
 	border-radius: 20px;	
 	box-shadow: 5px 5px 10px #aaa;
 }
+	.x2 {
+		grid-column: span 2;
+	}
+
 .criterios li {
 	padding: 15px;
 	margin: 5px;
@@ -286,12 +290,16 @@ footer {
 	color: #888;
 	z-index: 10;
 	margin-top: -1px;
+	padding: 50px;
 }
 
 @media (max-width: 1200px) {
 	
 	.baraja {
 		grid-template-columns: 1fr;
+	}
+	.x2 {
+		grid-column: span 1;
 	}
 }
 
