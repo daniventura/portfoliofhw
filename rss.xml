@@ -2,7 +2,7 @@
 <rss version="2.0">
 	<channel>
 		<!--Prólogo-->
-		<title>Portfo</title>
+		<title>Dani Ventura - Portfolio FHW</title>
 		<link>https://daniventura.github.io/portfoliofhw</link>
 		<description>
 			Un rincón de internet donde encontrar programas útiles para instalar y guías para ello.
@@ -32,6 +32,22 @@
 		<item>
 			<title>Software Portable</title>
 			<description>En este artículo encontrará información sobre software portable y cómo instalarlo</description>
+			<link>https://daniventura.github.io/portfoliofhw/portable.html</link>
+			<author>vesefr_aliesma20@iesmedinaazahara.es</author>
+			<category>portable</category>
+			<pubDate>Sun, 05 Dec 2021 12:25:00 +0100</pubDate>
+		</item>
+		<item>
+			<title>Software Antivirus</title>
+			<description>En este artículo encontrará información sobre software antivirus y cómo instalarlo</description>
+			<link>https://daniventura.github.io/portfoliofhw/ofimatica.html</link>
+			<author>vesefr_aliesma20@iesmedinaazahara.es</author>
+			<category>ofimática</category>
+			<pubDate>Sun, 05 Dec 2021 12:25:00 +0100</pubDate>
+		</item>
+		<item>
+			<title>Software Recuperación de Datos</title>
+			<description>En este artículo encontrará información sobre software de recuperación de datos y cómo instalarlo</description>
 			<link>https://daniventura.github.io/portfoliofhw/portable.html</link>
 			<author>vesefr_aliesma20@iesmedinaazahara.es</author>
 			<category>portable</category>
