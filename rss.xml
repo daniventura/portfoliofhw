@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+	<channel>
+		<!--Prólogo-->
+		<title>Portfo</title>
+		<link>https://daniventura.github.io/portfoliofhw</link>
+		<description>
+			Un rincón de internet donde encontrar programas útiles para instalar y guías para ello.
+		</description>
+		<category>academico/software/tutorial</category>
+		<copyright>1º ASIR - LMSGI</copyright>
+		<image>
+			<url>https://daniventura.github.io/portfoliofhw/media/Moss.png</url>
+			<title>Portfolio FHW</title>
+			<link>https://github.com/daniventura/portfoliofhw</link>
+			<width>30</width>
+			<height>30</height>
+		</image>
+		<language>es-es</language>
+		<lastBuildDate>Sun, 05 Dec 2021 12:15:00 +0100</lastBuildDate>
+		<webMaster>vesefr_aliesma20@iesmedinaazahara.es</webMaster>
+		
+		<!-- Noticias del canal -->
+		<item>
+			<title>Software Ofimático</title>
+			<description>En este artículo encontrará información sobre software ofimático y cómo instalarlo</description>
+			<link>https://daniventura.github.io/portfoliofhw/ofimatica.html</link>
+			<author>vesefr_aliesma20@iesmedinaazahara.es</author>
+			<category>ofimática</category>
+			<pubDate>Sun, 05 Dec 2021 12:25:00 +0100</pubDate>
+		</item>
+		<item>
+			<title>Software Portable</title>
+			<description>En este artículo encontrará información sobre software portable y cómo instalarlo</description>
+			<link>https://daniventura.github.io/portfoliofhw/portable.html</link>
+			<author>vesefr_aliesma20@iesmedinaazahara.es</author>
+			<category>portable</category>
+			<pubDate>Sun, 05 Dec 2021 12:25:00 +0100</pubDate>
+		</item>
+	</channel>
+</rss>
