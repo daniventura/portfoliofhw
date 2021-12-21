@@ -295,6 +295,15 @@ footer {
 	padding: 50px;
 }
 
+.rss {
+	width: 100%;
+	height: 30px;
+	margin: 10px, auto;
+}
+	.irss {
+		height: 30px;
+	}
+
 @media (max-width: 1200px) {
 	
 	.baraja {
