@@ -40,9 +40,9 @@
 		<item>
 			<title>Software Antivirus</title>
 			<description>En este artículo encontrará información sobre software antivirus y cómo instalarlo</description>
-			<link>https://daniventura.github.io/portfoliofhw/ofimatica.html</link>
+			<link>https://daniventura.github.io/portfoliofhw/antivirus.html</link>
 			<author>vesefr_aliesma20@iesmedinaazahara.es</author>
-			<category>ofimática</category>
+			<category>antivirus</category>
 			<pubDate>Sun, 05 Dec 2021 12:25:00 +0100</pubDate>
 		</item>
 		<item>
@@ -50,7 +50,7 @@
 			<description>En este artículo encontrará información sobre software de recuperación de datos y cómo instalarlo</description>
 			<link>https://daniventura.github.io/portfoliofhw/portable.html</link>
 			<author>vesefr_aliesma20@iesmedinaazahara.es</author>
-			<category>portable</category>
+			<category>recovery</category>
 			<pubDate>Sun, 05 Dec 2021 12:25:00 +0100</pubDate>
 		</item>
 	</channel>

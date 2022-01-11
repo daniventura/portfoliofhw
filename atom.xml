@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" 
+	xml:lang="es" 
+	xml:base="https://daniventura.github.io/portfoliofhw/">
+
+	<id>https://daniventura.github.io/portfoliofhw/</id>
+
+	<title>Viajes y más atom</title>
+	<updated>2021-12-21T19:06:00+01:00</updated>
+
+	<link rel="alternate" href="https://daniventura.github.io/portfoliofhw/atom.xml"/>
+
+	<author>
+		<name>Daniel Ventura</name>
+		<email>vesefr_aliesma20@iesmedinaazahara.es</email>
+	</author>
+
+	<category term="tutoriales instalación software"/>
+
+	<contributor>
+		<name>Keanu Reeves</name>
+		<email>pildoraroja@gmail.com</email>
+		<uri>https://www.imdb.com/name/nm0000206/</uri>
+	</contributor>
+	<subtitle>
+        Un rincón de internet donde encontrar programas útiles para instalar y guías para ello.
+    </subtitle>
+
+
+
+	<entry>
+		<id>https://daniventura.github.io/portfoliofhw/ofimatica.html</id>
+		<title>Software Ofimático</title>
+		<update>2022-12-91T18:30:00+01:00</update>
+		<author>
+			<name>Daniel Ventura</name>
+			<email>vesefr_aliesma20@iesmedinaazahara.es</email>
+		</author>
+		<summary>En este artículo encontrará información sobre software ofimático y cómo instalarlo</summary>
+		<link rel="alternate" href="https://daniventura.github.io/portfoliofhw/ofimatica.html"></link>
+        <content type="html">
+            <h2 style="color: red;">contenido increible</h2>
+        </content>
+	</entry>
+
+	<entry>
+		<id>https://daniventura.github.io/portfoliofhw/portable.html</id>
+		<title>Software Portable</title>
+		<update>2022-12-91T18:30:00+01:00</update>
+		<author>
+			<name>Daniel Ventura</name>
+			<email>vesefr_aliesma20@iesmedinaazahara.es</email>
+		</author>
+		<summary>En este artículo encontrará información sobre software portable y cómo instalarlo</summary>
+		<link rel="alternate" href="https://daniventura.github.io/portfoliofhw/portable.html"></link>
+        <content type="html">
+            <h2 style="color: red;">contenido increible</h2>
+        </content>
+	</entry>
+
+	<entry>
+		<id>https://daniventura.github.io/portfoliofhw/antivirus.html</id>
+		<title>Software Antivirus</title>
+		<update>2022-12-91T18:30:00+01:00</update>
+		<author>
+			<name>Daniel Ventura</name>
+			<email>vesefr_aliesma20@iesmedinaazahara.es</email>
+		</author>
+		<summary>En este artículo encontrará información sobre software antivirus y cómo instalarlo</summary>
+		<link rel="alternate" href="https://daniventura.github.io/portfoliofhw/antivirus.html"></link>
+        <content type="html">
+            <h2 style="color: red;">contenido increible</h2>
+        </content>
+	</entry>
+
+	<entry>
+		<id>https://daniventura.github.io/portfoliofhw/recovery.html</id>
+		<title>Software Recuperación de datos</title>
+		<update>2022-12-91T18:30:00+01:00</update>
+		<author>
+			<name>Daniel Ventura</name>
+			<email>vesefr_aliesma20@iesmedinaazahara.es</email>
+		</author>
+		<summary>En este artículo encontrará información sobre software de recuperación de datos y cómo instalarlo</summary>
+		<link rel="alternate" href="https://daniventura.github.io/portfoliofhw/recovery.html"></link>
+        <content type="html">
+            <h2 style="color: red;">contenido increible</h2>
+        </content>
+	</entry>
+
+</feed>
