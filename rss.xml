@@ -53,5 +53,21 @@
 			<category>recovery</category>
 			<pubDate>Sun, 05 Dec 2021 12:25:00 +0100</pubDate>
 		</item>
+		<item>
+			<title>USB de Arranque</title>
+			<description>En este artículo encontrará información sobre software para crear USB's de arranque y como configurarlos</description>
+			<link>https://daniventura.github.io/portfoliofhw/usbarranque.html</link>
+			<author>vesefr_aliesma20@iesmedinaazahara.es</author>
+			<category>USB</category>
+			<pubDate>Sat, 19 Feb 2022 18:20:00 +0100</pubDate>
+		</item>
+		<item>
+			<title>Clonación de Discos</title>
+			<description>En este artículo encontrará una guía de como utilizar Clonezilla para realizar copias y restauraciones de discos y particiones tanto en local como en remoto</description>
+			<link>https://daniventura.github.io/portfoliofhw/clonezilla.html</link>
+			<author>vesefr_aliesma20@iesmedinaazahara.es</author>
+			<category>clonacion recuperación discos particiones</category>
+			<pubDate>Sat, 19 Feb 2022 18:20:00 +0100</pubDate>
+		</item>
 	</channel>
 </rss>

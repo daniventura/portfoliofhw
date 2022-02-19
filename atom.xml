@@ -89,4 +89,34 @@
         </content>
 	</entry>
 
+	<entry>
+		<id>https://daniventura.github.io/portfoliofhw/usbarranque.html</id>
+		<title>USB de Arranque</title>
+		<update>2022-02-19T18:20:00+01:00</update>
+		<author>
+			<name>Daniel Ventura</name>
+			<email>vesefr_aliesma20@iesmedinaazahara.es</email>
+		</author>
+		<summary>En este artículo encontrará información sobre software para crear USB's de arranque y como configurarlos</summary>
+		<link rel="alternate" href="https://daniventura.github.io/portfoliofhw/usbarranque.html"></link>
+        <content type="html">
+            <h2>contenido increible</h2>
+        </content>
+	</entry>
+
+	<entry>
+		<id>https://daniventura.github.io/portfoliofhw/clonezilla.html</id>
+		<title>Clonación de Discos</title>
+		<update>2022-02-19T18:20:00+01:00</update>
+		<author>
+			<name>Daniel Ventura</name>
+			<email>vesefr_aliesma20@iesmedinaazahara.es</email>
+		</author>
+		<summary>En este artículo encontrará una guía de como utilizar Clonezilla para realizar copias y restauraciones de discos y particiones tanto en local como en remoto</summary>
+		<link rel="alternate" href="https://daniventura.github.io/portfoliofhw/clonezilla.html"></link>
+        <content type="html">
+            <h2>contenido increible</h2>
+        </content>
+	</entry>
+
 </feed>
